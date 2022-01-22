@@ -190,3 +190,43 @@ button{
 .signup-card h3{
     font-size: 15px;
 }
+
+@media (max-width: 600px){
+    .header-text{
+        width: 100%;
+        
+        
+    }
+    .hero-main {
+        
+        width: 100%;
+    }
+    .hero-second{
+        
+        width: 100%;
+    }
+    .top-signup{
+        
+         
+        position: relative;             /* new */
+        left: 50%;
+        transform: translateX(-50%);
+
+        
+    }
+    
+    .quote{
+        
+        font-size: 20px;
+        padding: 75px;
+    }
+    .quote p{
+        width: 100%;
+        
+    }
+    .quote-sign{
+        width: 100%;
+        font-size: 14px;
+        
+    }
+}
