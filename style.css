@@ -22,13 +22,13 @@ body{
 
 }
 .head{
-    background-color: #1F2937;
+    background-color: #FAE3E3;
     
 
 }
 .header p{
     font-size: 24px;
-    color: #F9FAF8;
+    color: black;
 }
 .header{
     display: flex;
@@ -49,7 +49,7 @@ body{
 
 a{
     font-size: 18px;
-    color: #E5E7EB;
+    color: black;
     text-decoration: none;
     
 }
@@ -67,18 +67,18 @@ a{
 .hero-main{
     font-size: 48px;
     font-weight: bolder;
-    color: #F9FAF8;
+    color: black;
     width: 500px;
     margin-bottom: 0px;
     
 }
 .hero-second{
     font-size: 18px;
-    color: #E5E7EB;
+    color: black;
     width: 500px;
 }
 button{
-    background-color: blue;
+    background-color: #4A051C;
     border: none;
     width: 100px;
     padding: 8px 12px;
@@ -86,10 +86,8 @@ button{
     color: #F9FAF8;
     
 }
-.image{
-    /*background-color: lightgrey;
-    height: 200px;
-    width: 500px;*/
+.heroimage{
+    border-radius: 20px;
 }
 
 .header-text{
@@ -97,7 +95,7 @@ button{
 }
 
 .quote{
-    background-color: #E5E7EB;
+    background-color: #abcec3;
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
@@ -117,18 +115,18 @@ button{
 }
 
 .footer{
-    background-color: #1F2937;
+    background-color: #FAE3E3;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 14px;
-    color: #F9FAF8;
+    color: black;
     padding: 16px;
 }
 .square{
     height: 150px;
     width: 150px;
-    border: 3px solid #3882F6;
+    border: 3px solid #830A48;
     border-radius: 13px;
     margin-bottom: 20px;
     
@@ -167,7 +165,7 @@ button{
 }
 
 .call{
-    background-color: #3882F6;
+    background-color: #eecfcf;
     display: flex;
     justify-content: space-between;
     align-items: center;
